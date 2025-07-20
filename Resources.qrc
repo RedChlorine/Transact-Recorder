@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Spalsh Screen.png</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
